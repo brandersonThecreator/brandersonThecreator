@@ -26,7 +26,7 @@ Back-End Basics (Node.js, SQL)
 
 <h4> library </h4>
 <span>
-  <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png">
+  <img src="https://w7.pngwing.com/pngs/88.25/28/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png">
 </span>
 
 <h4> Databases </h4>
