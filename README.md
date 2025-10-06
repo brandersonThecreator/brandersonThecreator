@@ -26,7 +26,7 @@ Back-End Basics (Node.js, SQL)
 
 <h4> library </h4>
 <span>
-  <img src="https://www.vhv.rs/dpng/d/590-5903330_reactjs-logo-react-js-transparent-icon-hd-png.png">
+  <img src="https://www.nexoid.com/technology/reactjs/react_js_logo.webp">
 </span>
 
 <h4> Databases </h4>
