@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Birunthaban)
-
 Hi there 👋 I'm Branderson,
 
 I'm a junior web developer passionate about creating clean, functional, and user-focused digital experiences.
