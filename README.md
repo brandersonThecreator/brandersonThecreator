@@ -26,7 +26,7 @@ Back-End Basics (Node.js, SQL)
 
 <h4> library </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" style="border-radius:12px;">
+<img src="https://www.nexoid.com/technology/reactjs/react_js_logo.webp" alt="ReactJS Logo" style="border-radius:12px; width:88.25px; height:28px;">
 </span>
 
 <h4> Databases </h4>
